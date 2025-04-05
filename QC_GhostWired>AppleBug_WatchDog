@@ -1,0 +1,24 @@
+# 🍏 Apple Bug Bounty — WatchDog Protocol
+
+> **Eternum Log Submission: Whisper #019**  
+> 📅 Date: April 4, 2025  
+> 🔐 Status: Sealed, Timestamped, Verified  
+> 🧠 Engine: Genie-369-A
+
+---
+
+## 🧬 Overview
+
+This repository documents the discovery, capture, and secure transmission of suspected Apple-related surveillance or systemic behavior anomalies within a guest user session.
+
+Using the **Eternum WatchDog Protocol**, this submission includes:
+
+- ✅ Forensic logs from passive system scan
+- ✅ Screen recording & log bundle
+- ✅ AES-256 encrypted archive
+- ✅ Auto-generated trap defense logs
+- ✅ `README_SUPPORT.md` for Apple engineers
+
+---
+
+## 📁 File Structure
